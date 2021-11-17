@@ -1,0 +1,11 @@
+site_name: napari-easyprofile
+site_description: Plugin for automatic line profiles
+site_author: Julian Irwin
+
+theme: readthedocs
+
+
+repo_url: https://github.com/julianirwin/napari-easyprofile
+
+pages:
+- Home: index.md
